@@ -1,0 +1,19 @@
+{
+    "name": "drumvest",
+    "author": "life",
+    "description": "drumvest",
+    "license": "MIT",
+    "version": "1.0.0",
+    "src": {
+        "src/modloader.js": "CacheModLoad"
+    },
+    "folders": [
+        "files/assort/ragfair",
+        "files/items",
+        "files/locales/en",
+        "files/templates"
+    ],
+    "filenames": [
+        "drumvest"
+    ]
+}
